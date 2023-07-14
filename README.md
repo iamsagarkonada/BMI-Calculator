@@ -15,7 +15,7 @@ This repository contains an Android application built using Kotlin that calculat
 ## Installation
 
 1. Clone the repository to your local machine using the following command:
-  git clone https://github.com/iamsagarkonada/News-Insights-React.git
+  git clone https://github.com/iamsagarkonada/BMI-Calculator.git
 2. Open Android Studio and select "Open an existing Android Studio project."
 
 3. Navigate to the cloned project directory and click "OK."
